@@ -1,0 +1,93 @@
+.cripto {
+    background: url(../img/2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+
+}
+
+.Caracteristicas{
+    background: url(../img/5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+
+}
+
+.primera{
+    background: url(../img/3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+
+}
+
+.historia {
+    background: url(../img/1.jpg);
+    background-position: center;
+    
+    padding: 1rem;
+
+}
+.arquitectura {
+    background: url(../img/7.png);
+    background-position: center;
+    padding: 1rem;
+    height: 100%;
+    width: 100%;
+  
+}
+
+.legalidades {
+    background: url(../img/6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+
+}
+
+
+
+    .social {
+        position: fixed; 
+        left: -50px; 
+        top: 200px; 
+        z-index: 2000; 
+    }
+     
+        .social ul {
+            list-style: none;
+        }
+     
+        .social ul li a {
+            display: inline-block;
+            color:#fff;
+            background: rgb(211, 208, 208);
+            padding: 10px 14px;
+            text-decoration: none;
+            -webkit-transition:all 500ms ease;
+            -o-transition:all 500ms ease;
+            transition:all 500ms ease; 
+        }
+     
+        .social ul li .fa-facebook-square {background:#3b5998;} 
+        .social ul li .fa-twitter-square {background: #00abf0;}
+        .social ul li .fa-google {background: #d95232;}
+        .social ul li .fa-pinterest {background: #ae181f;}
+        
+     
+        .social ul li a:hover {
+            background: rgb(7, 7, 7); 
+            padding: 10px 30px; }
